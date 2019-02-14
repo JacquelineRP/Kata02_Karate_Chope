@@ -4,7 +4,7 @@ import java.util.List;
 
 public class ChopService {
 	
-	public Integer chop(Integer position, List<Integer> values) {
+	public Integer chop(Integer value, List<Integer> list) {
 		return null;
 	}
 }
